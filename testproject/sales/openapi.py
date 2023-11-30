@@ -6,7 +6,7 @@ import re
 
 
 result=desc()
-openai.api_key='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'
+openai.api_key=''
 messages=[]
 
 
